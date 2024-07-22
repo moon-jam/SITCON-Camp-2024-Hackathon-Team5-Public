@@ -1,0 +1,5 @@
+config.py
+elder.jpg
+tools/__pycache__/
+__pycache__/
+.DS_Store
