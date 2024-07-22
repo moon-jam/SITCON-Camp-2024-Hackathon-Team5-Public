@@ -11,7 +11,7 @@ Dieser Bot wird dich sehr gut über deinen Tag informieren und dein Leben viel e
 `/calendar_today` - Die Ereignisse des heutigen Tages abrufen  
 `/set_calendar_notify` [Zeit] - Die Zeit festlegen, zu der du über die Ereignisse des Tages benachrichtigt werden möchtest  
 [Ort] - Sende deinen Standort und der Bot wird dir einen Tagesplan für den Ort in deiner Nähe mitteilen  
-`/picture`[Satz] - Bilder für Morgen, Mittag und Abend abrufen  
+`/picture`[Satz] - Bilder für Morgen, Mittag und Abend abrufen (Der Satz ist optional; wenn er nicht angegeben wird, wird automatisch ein Satz basierend auf der aktuellen Zeit von Gemini generiert.)  
 `/color` - Die Farbe der Wörter im Bild ändern  
 
 ## Einrichtung

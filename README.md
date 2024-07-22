@@ -11,7 +11,7 @@ This bot will inform you about your day very well and will make your life much e
 `/calendar_today` - Get the events of today  
 `/set_calendar_notify` [time] - Set the time to notify you about the events of the day  
 [location] - send your location, and the bot will tell you a today-schedule about the place near you  
-`/picture`[sentence] - Get morning,noon and evening pictures  
+`/picture` [sentence] - Get morning,noon and evening pictures (The sentence is optional; if not provided, a sentence will be automatically generated based on the current time by Gemini.)  
 `/color` - Change the word color in the picture "  
 
 ## Setup
